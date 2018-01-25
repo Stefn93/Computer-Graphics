@@ -1,4 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: la directory intermedia (Debug\) contiene file condivisi da un altro progetto (Computer Graphics.vcxproj). Tale condizione può comportare un comportamento di pulizia e ricompilazione non corretto.
-  Exercise1.cpp
-c:\users\stefano\desktop\labcg-01_1617\exercise1.cpp(279): warning C4244: 'argomento': conversione da 'double' a 'GLint'. Possibile perdita di dati.
-  Lab01.vcxproj -> C:\Users\Stefano\Documents\Visual Studio 2017\Projects\Computer Graphics\Debug\Lab01.exe

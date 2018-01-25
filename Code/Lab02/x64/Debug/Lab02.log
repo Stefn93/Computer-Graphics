@@ -1,6 +1,0 @@
-﻿  v3d.c
-c:\users\stefano\desktop\consegna grafica - stefano romanazzi\lab02\v3d.c(78): warning C4244: 'return': conversione da 'double' a 'float'. Possibile perdita di dati.
-c:\users\stefano\desktop\consegna grafica - stefano romanazzi\lab02\v3d.c(86): warning C4244: 'funzione': conversione da 'double' a 'const float'. Possibile perdita di dati.
-  model_viewer.c
-c:\users\stefano\desktop\consegna grafica - stefano romanazzi\lab02\model_viewer.c(27): fatal error C1083: Non è possibile aprire il file inclusione: 'GL/freeglut.h': No such file or directory
-  Generazione del codice in corso...

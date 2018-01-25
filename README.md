@@ -8,7 +8,7 @@ A series of computer graphics mini-projects.
 
 **Project Description**
 
-Lab 1 --> Bezièr curves with de-castlejau algorithm implementation.
+Lab 1 --> Bezièr curves with adaptive de-castlejau algorithm implementation.
 
 Lab 2 --> Affine transformations, vertex normals, shading, camera path, OCS, WCS, VCS.
 

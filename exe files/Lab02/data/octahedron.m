@@ -1,0 +1,14 @@
+Vertex 1  1 0 0
+Vertex 2  0 -1 0
+Vertex 3  -1 0 0
+Vertex 4  0 1 0
+Vertex 5  0 0 1
+Vertex 6  0 0 -1
+Face 1  5 1 2
+Face 2  5 2 3
+Face 3  5 3 4
+Face 4  5 4 1
+Face 5  6 2 1
+Face 6  6 3 2
+Face 7  6 4 3
+Face 8  6 1 4

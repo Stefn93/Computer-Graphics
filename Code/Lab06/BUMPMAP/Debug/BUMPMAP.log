@@ -1,0 +1,15 @@
+﻿  bumptex.cpp
+c:\users\stefano\desktop\labcg-06\common\common.h(92): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: vedere la dichiarazione di 'fopen'
+c:\users\stefano\desktop\labcg-06\common\common.h(202): warning C4305: 'inizializzazione': troncamento da 'double' a 'GLfloat'
+c:\users\stefano\desktop\labcg-06\common\common.h(1479): warning C4244: '=': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\stefano\desktop\labcg-06\common\common.h(1480): warning C4244: '=': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\stefano\desktop\labcg-06\common\common.h(1481): warning C4244: '=': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\stefano\desktop\labcg-06\common\common.h(1502): warning C4244: '=': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\stefano\desktop\labcg-06\common\common.h(1504): warning C4244: '=': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\stefano\desktop\labcg-06\common\common.h(1507): warning C4244: '=': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\stefano\desktop\labcg-06\common\common.h(1523): warning C4244: '=': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\stefano\desktop\labcg-06\bumpmap\bumptex.cpp(80): warning C4244: '=': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\stefano\desktop\labcg-06\bumpmap\bumptex.cpp(163): warning C4244: '=': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\stefano\desktop\labcg-06\bumpmap\bumptex.cpp(164): warning C4244: '=': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+  BUMPMAP.vcxproj -> C:\Users\Stefano\Desktop\labCG-06\Debug\BUMPMAP.exe

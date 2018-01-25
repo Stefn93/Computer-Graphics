@@ -1,0 +1,27 @@
+﻿  model_viewer.c
+c:\users\stefano\desktop\labcg-02_1617\model_viewer.c(50): warning C4305: 'inizializzazione': troncamento da 'double' a 'GLfloat'
+c:\users\stefano\desktop\labcg-02_1617\model_viewer.c(51): warning C4305: 'inizializzazione': troncamento da 'double' a 'GLfloat'
+c:\users\stefano\desktop\labcg-02_1617\model_viewer.c(52): warning C4305: 'inizializzazione': troncamento da 'double' a 'GLfloat'
+c:\users\stefano\desktop\labcg-02_1617\model_viewer.c(53): warning C4305: 'inizializzazione': troncamento da 'double' a 'GLfloat'
+c:\users\stefano\desktop\labcg-02_1617\model_viewer.c(185): warning C4305: 'funzione': troncamento da 'double' a 'GLfloat'
+c:\users\stefano\desktop\labcg-02_1617\model_viewer.c(186): warning C4305: 'funzione': troncamento da 'double' a 'GLfloat'
+c:\users\stefano\desktop\labcg-02_1617\model_viewer.c(195): warning C4305: 'funzione': troncamento da 'double' a 'GLfloat'
+c:\users\stefano\desktop\labcg-02_1617\model_viewer.c(196): warning C4305: 'funzione': troncamento da 'double' a 'GLfloat'
+c:\users\stefano\desktop\labcg-02_1617\model_viewer.c(214): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\stefano\desktop\labcg-02_1617\model_viewer.c(247): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\stefano\desktop\labcg-02_1617\model_viewer.c(405): warning C4305: '=': troncamento da 'double' a 'float'
+c:\users\stefano\desktop\labcg-02_1617\model_viewer.c(411): warning C4305: '=': troncamento da 'double' a 'float'
+c:\users\stefano\desktop\labcg-02_1617\model_viewer.c(418): warning C4305: '=': troncamento da 'double' a 'float'
+c:\users\stefano\desktop\labcg-02_1617\model_viewer.c(424): warning C4305: '=': troncamento da 'double' a 'float'
+c:\users\stefano\desktop\labcg-02_1617\model_viewer.c(431): warning C4305: '=': troncamento da 'double' a 'float'
+c:\users\stefano\desktop\labcg-02_1617\model_viewer.c(437): warning C4305: '=': troncamento da 'double' a 'float'
+c:\users\stefano\desktop\labcg-02_1617\model_viewer.c(725): warning C4305: '=': troncamento da 'double' a 'GLfloat'
+c:\users\stefano\desktop\labcg-02_1617\model_viewer.c(726): warning C4305: '=': troncamento da 'double' a 'GLfloat'
+c:\users\stefano\desktop\labcg-02_1617\model_viewer.c(819): warning C4013: 'v3dSub' non definita. Verrà considerata come esterna che restituisce un int.
+c:\users\stefano\desktop\labcg-02_1617\model_viewer.c(821): warning C4013: 'v3dCross' non definita. Verrà considerata come esterna che restituisce un int.
+c:\users\stefano\desktop\labcg-02_1617\model_viewer.c(851): warning C4013: 'v3dSum' non definita. Verrà considerata come esterna che restituisce un int.
+c:\users\stefano\desktop\labcg-02_1617\model_viewer.c(978): warning C4113: 'void (__cdecl *)()' differisce da 'void (__cdecl *)(void)' nell'elenco di parametri
+c:\users\stefano\desktop\labcg-02_1617\model_viewer.c(1041): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\stefano\desktop\labcg-02_1617\model_viewer.c(1042): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\stefano\desktop\labcg-02_1617\model_viewer.c(1043): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+  Lab02.vcxproj -> C:\Users\Stefano\Documents\Visual Studio 2017\Projects\Computer Graphics\Debug\Lab02.exe

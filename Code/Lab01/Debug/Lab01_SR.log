@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: la directory intermedia (Debug\) contiene file condivisi da un altro progetto (Computer Graphics.vcxproj, Lab01_SR.vcxproj). Tale condizione può comportare un comportamento di pulizia e ricompilazione non corretto.
+  Exercise1.cpp
+  Lab01_SR.vcxproj -> C:\Users\Stefano\documents\visual studio 2017\Projects\Lab01_SR\Debug\Lab01.exe
+  Lab01_SR.vcxproj -> C:\Users\Stefano\documents\visual studio 2017\Projects\Lab01_SR\Debug\Lab01.pdb (Partial PDB)

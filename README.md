@@ -1,4 +1,4 @@
-# Computer-Graphics-Unibo
+# Computer Graphics
 A series of computer graphics mini-projects.
 
 **Requirements**

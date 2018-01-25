@@ -2,7 +2,7 @@
 A series of computer graphics mini-projects.
 
 **Requirements**
-- Visual studio 2017
+- C\C++ Compiler (Recommended VS 2017)
 - Freeglut 3.0+
 - Glew 2.0+
 

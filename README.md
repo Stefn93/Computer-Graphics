@@ -6,6 +6,7 @@ A series of computer graphics mini-projects.
 - Freeglut 3.0+
 - Glew 2.0+
 
+**Project Description**
 
 Lab 1 --> Bezièr curves with de-castlejau algorithm implementation.
 
